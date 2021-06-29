@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DanielOttodev
 - 👀 I’m interested in ... Full stack development, fintech & AML solutions
 - 🌱 I’m currently learning ...C# / .NET Core
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... hello@dotto.com.au
 
 <!---
