@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielOttodev
-- 👀 I’m interested in ... Full stack development, fintech & AML solutions
-- 🌱 I’m currently learning ...C# / .NET Core
+- 👀 I’m interested in ... Full stack development + cloud computing
+- 🌱 I’m currently exploring AWS services
 - 📫 How to reach me ... otto_281@hotmail.com
 
 <!---
